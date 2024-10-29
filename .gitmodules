@@ -1,6 +1,6 @@
 [submodule "dependencies/cutlass"]
 	path = dependencies/cutlass
-	url = https://github.com/NVIDIA/cutlass
+	url = git@github.com:NVIDIA/cutlass.git
 [submodule "dependencies/fmt"]
 	path = dependencies/fmt
-	url = https://github.com/fmtlib/fmt
+	url = git@github.com:fmtlib/fmt.git
